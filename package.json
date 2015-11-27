@@ -1,0 +1,19 @@
+{
+  "name": "lagerjs",
+  "version": "0.0.1",
+  "description": "A module for collecting data and programmatically flushing it to a single endpoint.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlstar/lager.git"
+  },
+  "author": "Wells Johnston",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^1.4.0"
+  },
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "uglify": "^0.1.5"
+  }
+}

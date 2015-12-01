@@ -14,11 +14,11 @@ Logs are sent as a POST request in the form
 where ```log``` is an object of key-value pairs.
 
 ## Install
-*Node*
+**Node**
 ```
 npm install lagerjs --save
 ```
-*Browser*  
+**Browser**
 Include ```build/lager.js``` or ```build/lager.min.js``` in your HTML file.  Alternatively, you can build lager yourself with ```make```.
 
 ##Usage

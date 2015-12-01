@@ -57,3 +57,6 @@ logger.flush('playstart') // flush playstart logs only
 logger.flush()            // alternatively flush everything
 
 ```
+
+## License
+MIT
